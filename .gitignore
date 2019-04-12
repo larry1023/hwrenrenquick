@@ -1,0 +1,8 @@
+# Created by IDE
+*.iml
+.DS_Store
+.vscode
+.ide
+.fastapp
+build
+dist
